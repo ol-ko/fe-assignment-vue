@@ -12,7 +12,7 @@ The only thing we require is that while you go through the exercise you also nar
 
 `yarn install && yarn serve`
 
-The app will be available on the `http://localhost:3000`.
+The app will be available on the `http://localhost:8080`.
 Once you open that URL, you will see a list of real estate properties (a.k.a. listings).
 
 ## Task 1: Navigating to property details

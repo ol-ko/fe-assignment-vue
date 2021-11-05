@@ -28,7 +28,7 @@ Now that we can navigate to the listing details page, let's display the data of 
 - a title
 - listing description
 
-Full data for the single listing can be obtained from this endpoint: `{BASE_URL}/prod/listings/{listingId}`
+Full data for the single listing can be obtained from this endpoint: `{BASE_URL}/listings/{listingId}`
 
 Add some minimal styling (design and layout is up to you).
 
@@ -36,7 +36,7 @@ Add some minimal styling (design and layout is up to you).
 
 Some listings from our list have related listings. Let's display them on the listing detail page too. 
 
-IDs of the similar listings can be obtained from this endpoint: `{BASE_URL}/prod/listings/{listingId}/similar`
+IDs of the similar listings can be obtained from this endpoint: `{BASE_URL}/listings/{listingId}/similar`
 
 For each of the similar listings display a picture and a title.
 

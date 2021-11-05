@@ -19,7 +19,7 @@ Once you open that URL, you will see a list of real estate properties (a.k.a. li
 
 Make it possible to navigate from the homepage to the page displaying the individual listing details.
 
-NOTE: Component `ListingDetails.js` already exists in `components` folder.
+NOTE: Component `DetailsPage.vue` already exists in the `views` folder.
 
 ## Task 2: Displaying details of a single listing
 
